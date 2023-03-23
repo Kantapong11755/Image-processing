@@ -1,4 +1,4 @@
-# Findding range HSV for colors detection
+# Findding HSV range for colors detection
 ### tools 
   - Python
   - OpenCV2
